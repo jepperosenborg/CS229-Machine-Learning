@@ -1,6 +1,7 @@
 # CS229-Machine-Learning
 My notes and exercises following along the 2018 CS229 lecture and Stanford University taught by Andrew Ng
 
+## Description
 This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include:
 * supervised learning (generative/discriminative learning
 * parametric/non-parametric learning
