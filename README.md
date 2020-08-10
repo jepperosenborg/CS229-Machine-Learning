@@ -3,9 +3,7 @@ My notes and exercises following along the 2018 CS229 lecture at Stanford Univer
 
 ## Description
 This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include:
-* Supervised learning (generative/discriminative learning)
-* Parametric/non-parametric learning
-* Neural networks, support vector machines)
+* Supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines)
 * Unsupervised learning (clustering, dimensionality reduction, kernel methods)
 * Learning theory (bias/variance tradeoffs, practical advice)
 * Reinforcement learning and adaptive control
