@@ -12,4 +12,6 @@ This course provides a broad introduction to machine learning and statistical pa
 The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
 
 ## Links
+* [Course wesbite](http://cs229.stanford.edu/)
 * [Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html)
